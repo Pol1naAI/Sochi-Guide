@@ -1,7 +1,7 @@
 .hero-image {
   width: 100vw;
   height: 40vh;
-  background-image: url("images/moree.jpeg");
+  background-image: url("moree.jpeg");
   background-position: center center;
   background-size: cover;
 }
